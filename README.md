@@ -1,4 +1,4 @@
-#  Bank Marketing Data Cleaning (PostgreSQL-Ready)
+#  Bank Marketing Data Cleaning
 
 ##  Project Overview
 
